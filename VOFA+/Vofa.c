@@ -131,7 +131,7 @@ uint16_t Vofa_ReadData(Vofa_HandleTypedef* handle,uint8_t* buffer,uint16_t buffe
 	return length;
 }
 
-#ifdef __GNU_C__
+#ifdef __GNUC__
 __attribute__((weak))
 void Vofa_SendDataCallBack(Vofa_HandleTypedef *handle, uint8_t *data, uint16_t length)
 {

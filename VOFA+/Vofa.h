@@ -56,6 +56,8 @@ uint16_t Vofa_ReadData(Vofa_HandleTypedef* handle,uint8_t* buffer,uint16_t buffe
 void Vofa_SendDataCallBack(Vofa_HandleTypedef* handle,uint8_t* data,uint16_t length);
 uint8_t Vofa_GetDataCallBack(Vofa_HandleTypedef* handle);
 
+
+
 #ifdef __cplusplus
 }
 #endif
