@@ -339,7 +339,7 @@
               <MiscControls></MiscControls>
               <Define></Define>
               <Undefine></Undefine>
-              <IncludePath>..\..\..\VOFA+;..\CMSIS\Core;..\CMSIS\Device\GD32F30x;..\CMSIS\DSP\Inc;..\FWLib\Inc;..\..\GD32F303RC</IncludePath>
+              <IncludePath>..\CMSIS\Core;..\CMSIS\Device\GD32F30x;..\CMSIS\DSP\Inc;..\FWLib\Inc;..\..\GD32F303RC;..\..\..\VOFA+</IncludePath>
             </VariousControls>
           </Cads>
           <Aads>

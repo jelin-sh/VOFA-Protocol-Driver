@@ -2,8 +2,8 @@
 #include "gd32f30x.h"
 #include "Vofa.h"
 
-#define FIRE_WATER_TEST 1
-#define JUST_FLOAT_TEST 0
+#define FIRE_WATER_TEST 0
+#define JUST_FLOAT_TEST 1
 #define ROW_DATA_TEST 	0
 
 /* functions declaration */
